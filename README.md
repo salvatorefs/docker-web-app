@@ -3,7 +3,7 @@
 ![Docker](https://img.shields.io/badge/Containerized%20With-Docker-blue?logo=docker)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 [![Medium](https://img.shields.io/badge/Read%20my%20Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@salvatoref)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Ysalvatorefsanchez/)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salvatorefsanchez/)
 
 ---
 
